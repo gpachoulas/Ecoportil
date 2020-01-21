@@ -1,4 +1,9 @@
 [{
+    "Longitude": 20.240000,
+    "Latitude": 39.500000,
+    "Style": "arrowNE"
+
+},{
     "Longitude": 20.257000,
     "Latitude": 39.510100,
     "Style": "triangle2"
