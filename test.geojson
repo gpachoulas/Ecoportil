@@ -6,9 +6,19 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                20.264647006988525,
-                39.5034943453811
+                20.240000,
+                39.500000
             ]
         }
     }]
-}
+},{
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.257000,
+          39.510100
+        ]
+      }
+    }
