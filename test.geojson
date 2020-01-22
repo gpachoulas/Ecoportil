@@ -22,6 +22,16 @@
           39.510100
         ]
       }
+    },{
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.259000,
+          39.510100
+        ]
+      }
     }
   ]
 }
