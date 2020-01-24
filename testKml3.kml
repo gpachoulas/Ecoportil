@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>arrowNE General_Wind_Speed</name>
+    <description></description>
+    <style>arrowNE</style>
+    <Point>
+      <coordinates>20.240000,39.500000,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>triangle2 feature_1</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.257000,39.510100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>square3 feature_2</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.259000,39.510100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>star2 feature_3</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.259000, 39.511900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>arrowNE feature_4</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.257000, 39.511900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>triangle3 feature_5</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.264000, 39.502100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>square4 feature_6</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.266000, 39.502100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>star1 feature_7</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.266000, 39.503900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>arrowNE feature_8</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.264000, 39.503900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>triangle2 feature_9</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.274000, 39.497100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>square2 feature_10</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.276000, 39.497100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>star1 feature_11</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.276000, 39.498900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>arrowSE feature_12</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.274000, 39.498900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>triangle5 feature_13</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.264000, 39.495100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>square5 feature_14</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.266000, 39.495100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>star5 feature_15</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.266000, 39.496900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>arrowNE feature_16</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.264000, 39.496900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>triangle2 feature_17</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.258000, 39.488100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>square2 feature_18</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.260000, 39.488100,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>star1 feature_19</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.260000, 39.489900,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>arrowNE feature_20</name>
+    <description></description>
+    <ExtendedData>
+      <Data name="holeNumber">
+        <value>1</value>
+      </Data>
+      <Data name="holeYardage">
+        <value>234</value>
+      </Data>
+      <Data name="holePar">
+        <value>4</value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>20.258000, 39.489900,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
