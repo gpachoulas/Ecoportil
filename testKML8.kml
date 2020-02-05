@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>arrow SW</name>
+            <Point id="2">
+                <coordinates>20.257,39.5119,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>triangle #66ff66</name>
+            <Point id="4">
+                <coordinates>20.257,39.5101,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>square #66ff66</name>
+            <Point id="6">
+                <coordinates>20.259,39.5101,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>star #66ff66</name>
+            <Point id="8">
+                <coordinates>20.259,39.5119,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>arrow SW</name>
+            <Point id="10">
+                <coordinates>20.264,39.5039,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>triangle #66ff66</name>
+            <Point id="12">
+                <coordinates>20.264,39.5021,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>square #66ff66</name>
+            <Point id="14">
+                <coordinates>20.266,39.5021,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>star #66ff66</name>
+            <Point id="16">
+                <coordinates>20.266,39.5039,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>arrow SW</name>
+            <Point id="18">
+                <coordinates>20.258,39.4899,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>triangle #66ff66</name>
+            <Point id="20">
+                <coordinates>20.258,39.4881,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>square #66ff66</name>
+            <Point id="22">
+                <coordinates>20.26,39.4881,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>star #66ff66</name>
+            <Point id="24">
+                <coordinates>20.26,39.4899,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>arrow NE</name>
+            <Point id="26">
+                <coordinates>20.24,39.5,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>arrow SW</name>
+            <Point id="28">
+                <coordinates>20.264,39.4969,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>triangle #66ff66</name>
+            <Point id="30">
+                <coordinates>20.264,39.4951,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>square #66ff66</name>
+            <Point id="32">
+                <coordinates>20.266,39.4951,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>star #ff8c00</name>
+            <Point id="34">
+                <coordinates>20.266,39.4969,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>arrow SW</name>
+            <Point id="36">
+                <coordinates>20.274,39.4989,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>triangle #66ff66</name>
+            <Point id="38">
+                <coordinates>20.274,39.4971,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>square #66ff66</name>
+            <Point id="40">
+                <coordinates>20.276,39.4971,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>star #ff0000</name>
+            <Point id="42">
+                <coordinates>20.276,39.4989,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
