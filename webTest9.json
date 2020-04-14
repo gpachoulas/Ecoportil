@@ -1,0 +1,69 @@
+{
+    "UOI": [{
+        "ID": "1042",
+        "NAME": "University of Ioannina",
+        "CORDS": "20.258000, 39.511000",
+        "VISIBLE_COLUMNS": [{
+            "DATE": "DATE",
+            "CO": "CO (ppb)",
+            "NO": "NO (ppb)",
+            "ΝΟ2": "NO2 (ppb)",
+            "O3": "O3 (ppb)",
+            "T": "Temperature (°C)",
+            "RH": "RH (%)",
+            "P": "P (mmHg)",
+            "G": "G (°C)",
+            "PM1.0": "PM1.0 (μg/m^3)",
+            "PM2.5": "PM2.5 (μg/m^3)",
+            "PM10": "PM10 (μg/m^3)",
+            "WD": "Wind Direction",
+            "WS": "Wind Speed (Mph)",
+            "WG": "Wind Gusts (Mph)"
+        }]
+    }],
+    "TOWNHALL": [{
+        "ID": "1043",
+        "NAME": "Town Hall",
+        "CORDS": "20.265000, 39.503000",
+        "VISIBLE_COLUMNS": [{
+            "DATE": "DATE",
+            "CO": "CO (ppb)",
+            "NO": "NO (ppb)",
+            "ΝΟ2": "NO2 (ppb)",
+            "O3": "O3 (ppb)",
+            "T": "Temperature (°C)",
+            "RH": "RH (%)",
+            "P": "P (mmHg)",
+            "G": "G (°C)",
+            "PM1.0": "PM1.0 (μg/m^3)",
+            "PM2.5": "PM2.5 (μg/m^3)",
+            "PM10": "PM10 (μg/m^3)",
+            "WD": "Wind Direction",
+            "WS": "Wind Speed (Mph)",
+            "WG": "Wind Gusts (Mph)"
+        }]
+    }],
+    "PORT": [{
+        "ID": "1043",
+        "NAME": "Port",
+        "CORDS": "20.259000, 39.489000",
+        "VISIBLE_COLUMNS": [{
+            "DATE": "DATE",
+            "CO": "CO (ppb)",
+            "NO": "NO (ppb)",
+            "ΝΟ2": "NO2 (ppb)",
+            "O3": "O3 (ppb)",
+            "T": "Temperature (°C)",
+            "RH": "RH (%)",
+            "P": "P (mmHg)",
+            "G": "G (°C)",
+            "PM1.0": "PM1.0 (μg/m^3)",
+            "PM2.5": "PM2.5 (μg/m^3)",
+            "PM10": "PM10 (μg/m^3)",
+            "WD": "Wind Direction",
+            "WS": "Wind Speed (Mph)",
+            "WG": "Wind Gusts (Mph)"
+        }]
+    }]
+}]
+}
