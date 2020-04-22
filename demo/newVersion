@@ -1,0 +1,60 @@
+{
+    "ID": "1042",
+    "NAME": "UOI",
+    "LOCATION": "IGOU",
+    "SOURCE_PATH": "1042/test.csv",
+    "DEST_PATH": "DATA/IGOU/UOI",
+    "COORDINATES": [{
+        "LON": 20.258000,
+        "LAT": 39.511000
+    }],
+    "DROP_COLUMNS": [
+        "BATT",
+        "CHRG",
+        "RUN",
+        "SD",
+        "RAW1",
+        "RAW2",
+        "RAW3",
+        "RAW4",
+        "RAW5",
+        "RAW6",
+        "RAW7",
+        "RAW8",
+        "STAT1",
+        "STAT2",
+        "STAT3"
+    ],
+    "PREVIOUS_DAYS": 5,
+    "GROUP_BY_MINUTE": 1,
+    "EXPORT_WINDGURU": true,
+    "WINDGURU_ID": 903260,
+    "FORECAST_DAYS": 3,
+    "SETofDAY": [{
+        "A": "0-6",
+        "B": "6-9",
+        "C": "9-12",
+        "D": "12-15",
+        "E": "15-18",
+        "F": "18-23"
+    }],
+    "EXPORT_GRAPH": true,
+    "EXPORT_FEATURES": true,
+    "VISIBLE_FOR_WEBGIS": [{
+        "DATE": "DATE",
+        "CO": "CO (ppb)",
+        "NO": "NO (ppb)",
+        "ΝΟ2": "NO2 (ppb)",
+        "O3": "O3 (ppb)",
+        "T": "Temperature (°C)",
+        "RH": "RH (%)",
+        "P": "P (mmHg)",
+        "G": "G (°C)",
+        "PM1.0": "PM1.0 (μg/m^3)",
+        "PM2.5": "PM2.5 (μg/m^3)",
+        "PM10": "PM10 (μg/m^3)",
+        "WD": "Wind Direction",
+        "WS": "Wind Speed (Mph)",
+        "WG": "Wind Gusts (Mph)"
+    }]
+}
