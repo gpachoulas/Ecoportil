@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>arrow SW</name>
+            <Point id="2">
+                <coordinates>20.264000,39.503900,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>triangle #66ff66</name>
+            <Point id="4">
+                <coordinates>20.264000,39.502100,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>square #66ff66</name>
+            <Point id="6">
+                <coordinates>20.266000,39.503900,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>star #ff8c00</name>
+            <Point id="8">
+                <coordinates>20.266000,39.502100,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>arrow SW</name>
+            <Point id="10">
+                <coordinates>20.256523,39.511749,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>triangle #66ff66</name>
+            <Point id="12">
+                <coordinates>20.256523,39.509949,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>square #66ff66</name>
+            <Point id="14">
+                <coordinates>20.258523,39.511749,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>star #ffff00</name>
+            <Point id="16">
+                <coordinates>20.258523,39.509949,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
