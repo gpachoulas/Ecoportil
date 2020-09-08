@@ -1,0 +1,72 @@
+{
+    "CO": {
+        "NAME": "Carbon monoxide",
+        "Unit": "ppm"
+    },
+    "PM10": {
+        "NAME": "Atmospheric particulate matter",
+        "Unit": "ug/m3"
+    },
+    "WTEMP": {
+        "NAME": "Wate Temperature",
+        "Unit": "°C"
+    },
+    "ACOND": {
+        "NAME": "Actual conductivity",
+        "Unit": "uS/cm"
+    },
+    "SCOND": {
+        "NAME": "Specific conductivity",
+        "Unit": "uS/cm"
+    },
+    "SAL": {
+        "NAME": "Salinity",
+        "Unit": "PSU"
+    },
+    "TSOL": {
+        "NAME": "Total dissolved solids",
+        "Unit": "ppt"
+    },
+    "PH ": {
+        "NAME": "Acidity",
+        "Unit": "pH"
+    },
+    "ORP  ": {
+        "NAME": "Oxidation-reduction potential",
+        "Unit": "mV"
+    },
+    "RDO ": {
+        "NAME": "Dissolved oxygen",
+        "Unit": "mg/L"
+    },
+    "TURB ": {
+        "NAME": "Turbidity",
+        "Unit": "NTU"
+    },
+    "TSS ": {
+        "NAME": "Total suspended solids",
+        "Unit": "mg/L"
+    },
+    "WS ": {
+        "NAME": "Wind Speed",
+        "Unit": "Mph"
+    },
+    "T ": {
+        "NAME": "Temperature",
+        "Unit": "°C"
+    },
+    "WG ": {
+        "NAME": "Wind Gusts",
+        "Unit": "Mph"
+    },
+    "WD ": {
+        "NAME": "Wind Directions",
+        "Unit": "°"
+    },
+    "RH ": {
+        "NAME": "Relative humiditys",
+        "Unit": "%"
+    }
+
+
+}
