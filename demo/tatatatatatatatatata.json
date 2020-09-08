@@ -1,0 +1,14 @@
+{
+    "CO": [{
+        "NAME": "Carbon monoxide",
+        "Unit": "ppm"
+    }],
+    "PM10": [{
+        "NAME": "Atmospheric particulate matter",
+        "Unit": "ug/m3"
+    }],
+    "WTEMP": [{
+        "NAME": "Wate Temperature",
+        "Unit": "°C"
+    }]
+}
