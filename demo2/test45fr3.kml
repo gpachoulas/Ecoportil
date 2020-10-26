@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="19">
+        <Placemark id="21">
+            <name>M th B0</name>
+            <description>PM 0.5557500000000001</description>
+            <Point id="20">
+                <coordinates>20.265,39.503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>M th B1</name>
+            <description>PM 0.5557500000000001</description>
+            <Point id="22">
+                <coordinates>20.266,39.498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>M th B2</name>
+            <description>PM 0.5557500000000001</description>
+            <Point id="24">
+                <coordinates>20.275,39.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>M th B3</name>
+            <description>PM 0.5557500000000001</description>
+            <Point id="26">
+                <coordinates>20.28,39.495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>M th B4</name>
+            <description>PM 0.5557500000000001</description>
+            <Point id="28">
+                <coordinates>20.259,39.498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>M uoi A0</name>
+            <description>PM 0.43225</description>
+            <Point id="30">
+                <coordinates>20.258,39.511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>M uoi A1</name>
+            <description>PM 0.43225</description>
+            <Point id="32">
+                <coordinates>20.255,39.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>M uoi A0</name>
+            <description>PM 1.235</description>
+            <Point id="34">
+                <coordinates>20.255,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>M uoi A1</name>
+            <description>PM 1.235</description>
+            <Point id="36">
+                <coordinates>20.26,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>M uoi A2</name>
+            <description>PM 1.235</description>
+            <Point id="38">
+                <coordinates>20.265,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
