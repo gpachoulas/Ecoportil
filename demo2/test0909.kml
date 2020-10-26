@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="11">
+        <Placemark id="13">
+            <name>M 0.2 olig ZERO 0</name>
+            <description>PM 0.5</description>
+            <Point id="12">
+                <coordinates>20.266,39.475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>M 0.2 olig ZERO 1</name>
+            <description>PM 0.5</description>
+            <Point id="14">
+                <coordinates>20.26,39.48,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>M 0.2 olig ZERO 2</name>
+            <description>PM 0.5</description>
+            <Point id="16">
+                <coordinates>20.255,39.485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>M 0.2 olig ZERO 3</name>
+            <description>PM 0.5</description>
+            <Point id="18">
+                <coordinates>20.25,39.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>M 0.2 olig ZERO 4</name>
+            <description>PM 0.5</description>
+            <Point id="20">
+                <coordinates>20.245,39.495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>M 0.2 olig ZERO 5</name>
+            <description>PM 0.5</description>
+            <Point id="22">
+                <coordinates>20.25,39.485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>M 0.2 olig ZERO 6</name>
+            <description>PM 0.5</description>
+            <Point id="24">
+                <coordinates>20.245,39.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>M 0.2 olig ZERO 7</name>
+            <description>PM 0.5</description>
+            <Point id="26">
+                <coordinates>20.255,39.502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>M 0.2 olig ZERO 8</name>
+            <description>PM 0.5</description>
+            <Point id="28">
+                <coordinates>20.25,39.495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>M 0.2 olig ZERO 9</name>
+            <description>PM 0.5</description>
+            <Point id="30">
+                <coordinates>20.25,39.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>M 0.2 olig ZERO 10</name>
+            <description>PM 0.5</description>
+            <Point id="32">
+                <coordinates>20.25,39.505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>M 0.2 olig ZERO 11</name>
+            <description>PM 0.5</description>
+            <Point id="34">
+                <coordinates>20.25,39.51,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>M 0.2 olig ZERO 12</name>
+            <description>PM 0.5</description>
+            <Point id="36">
+                <coordinates>20.25,39.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>M 0.2 olig ZERO 13</name>
+            <description>PM 0.5</description>
+            <Point id="38">
+                <coordinates>20.25,39.52,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>M 0.2 olig ZERO 14</name>
+            <description>PM 0.5</description>
+            <Point id="40">
+                <coordinates>20.255,39.52,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>M 0.2 olig ZERO 15</name>
+            <description>PM 0.5</description>
+            <Point id="42">
+                <coordinates>20.26,39.52,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>M 0.2 olig ZERO 16</name>
+            <description>PM 0.5</description>
+            <Point id="44">
+                <coordinates>20.265,39.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>M 0.2 olig ZERO 17</name>
+            <description>PM 0.5</description>
+            <Point id="46">
+                <coordinates>20.27,39.51,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>M 0.2 olig ZERO 18</name>
+            <description>PM 0.5</description>
+            <Point id="48">
+                <coordinates>20.275,39.505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>M 0.2 olig ZERO 19</name>
+            <description>PM 0.5</description>
+            <Point id="50">
+                <coordinates>20.28,39.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>M 0.2 olig ZERO 20</name>
+            <description>PM 0.5</description>
+            <Point id="52">
+                <coordinates>20.285,39.495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>M 0.2 olig ZERO 21</name>
+            <description>PM 0.5</description>
+            <Point id="54">
+                <coordinates>20.29,39.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>M 0.2 olig ZERO 22</name>
+            <description>PM 0.5</description>
+            <Point id="56">
+                <coordinates>20.285,39.485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>M 0.2 olig ZERO 23</name>
+            <description>PM 0.5</description>
+            <Point id="58">
+                <coordinates>20.28,39.48,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>M 0.2 olig ZERO 24</name>
+            <description>PM 0.5</description>
+            <Point id="60">
+                <coordinates>20.275,39.475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>M 0.2 olig ZERO 25</name>
+            <description>PM 0.5</description>
+            <Point id="62">
+                <coordinates>20.27,39.48,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>M 0.2 olig ZERO 26</name>
+            <description>PM 0.5</description>
+            <Point id="64">
+                <coordinates>20.275,39.485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>M 0.2 olig ZERO 27</name>
+            <description>PM 0.5</description>
+            <Point id="66">
+                <coordinates>20.28,39.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>M 0.2 olig ZERO 27</name>
+            <description>PM 0.5</description>
+            <Point id="68">
+                <coordinates>20.265,39.503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>M uoi A0</name>
+            <description>PM 1.2248719</description>
+            <Point id="70">
+                <coordinates>20.258,39.511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>M uoi A1</name>
+            <description>PM 1.2248719</description>
+            <Point id="72">
+                <coordinates>20.255,39.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>M uoi A0</name>
+            <description>PM 3.499634</description>
+            <Point id="74">
+                <coordinates>20.255,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>M uoi A1</name>
+            <description>PM 3.499634</description>
+            <Point id="76">
+                <coordinates>20.26,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>M uoi A2</name>
+            <description>PM 3.499634</description>
+            <Point id="78">
+                <coordinates>20.265,39.508,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
