@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>arrow SW</name>
+            <Point id="2">
+                <coordinates>20.258660,39.489464,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>triangle #66ff66</name>
+            <Point id="4">
+                <coordinates>20.258660,39.487664,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>square #66ff66</name>
+            <Point id="6">
+                <coordinates>20.260660,39.489464,0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>star #ffff00</name>
+            <Point id="8">
+                <coordinates>20.260660,39.487664,0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
