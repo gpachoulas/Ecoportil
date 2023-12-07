@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>ΒΑΛΛΑ_1.300μ.kmz</name>
+  <Placemark>
+	<name>ΒΑΛΛΑ-1.300μ</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <LineString><coordinates>20.8601051343819,39.0455687916673 20.854473379102,39.0527608983093 20.8512646889936,39.0541956473697</coordinates></LineString>
+  </Placemark>
+</Folder>
+</Document></kml>
