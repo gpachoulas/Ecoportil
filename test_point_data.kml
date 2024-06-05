@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test_point_data" id="test_point_data">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="value" type="float"></SimpleField>
+</Schema>
+<Folder><name>test_point_data</name>
+  <Placemark>
+	<name>Εστίες</name>
+	<ExtendedData>
+    <SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="value">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.98424,39.14711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Αγία Παρασκευή</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="value">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.99193,39.10144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Κομπότι</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="value">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.06071,39.09518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Κομμένο</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>21.01207,39.05061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Καμπή</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.91295,39.21634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Κωστακιοί</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.94737,39.12208</coordinates></Point>
+  </Placemark>
+    <Placemark>
+	<name>Κορωνησία</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.917336,39.01311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ανέζα</name>
+	<ExtendedData><SchemaData schemaUrl="#test_point_data">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>20.92334,39.08211</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
