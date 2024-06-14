@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Style id="placemark-blue">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-blue.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-cyan">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-lightblue">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-green">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-green.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-teal">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-teal.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-lime">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-lime.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-deeppurple">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-purple.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-yellow">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-orange.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-deeporange">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-red.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-gray">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-gray.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-bluegray">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-pink.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-brown.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-001">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-001.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-002">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-002.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-003">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-003.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-004">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-004.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-005">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-005.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-006">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-006.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-007">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-007.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-008">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-008.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-009">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-009.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-010">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-010.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-011">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-011.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-012">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-012.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <name>eBird hotspots - GR01</name>
+    <visibility>1</visibility>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mt Belles (ΕΠ Λίμνης Κερκίνης--Όρος Μπέλλες)&lt;/b&gt;&lt;br&gt;104 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15809476&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.018878,41.326926</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Aetovouni quarry (ΕΠ Λίμνης Κερκίνης--Λατομείο Αετοβούνι)&lt;/b&gt;&lt;br&gt;121 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9378926&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.256243,41.2829914</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mt Belles, Vyroneia to Profitis Ilias church (ΕΠ Λίμνης Κερκίνης--Όρος Μπέλλες, Βυρώνεια προς εκκλησία Προφήτη Ηλία)&lt;/b&gt;&lt;br&gt;45 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9465011&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2067572,41.284855</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Akritochori Reservoir (ΕΠ Λίμνης Κερκίνης--Ταμιευτήρας Ακριτοχωρίου)&lt;/b&gt;&lt;br&gt;136 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5145173&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.169415,41.2782257</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mandraki harbour (ΕΠ Λίμνης Κερκίνης--Λιμάνι Μανδρακίου)&lt;/b&gt;&lt;br&gt;205 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669379&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1402004,41.2561942</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--West embankment, Livadia to Kerkinitis river (ΕΠ Λίμνης Κερκίνης--Δυτικό ανάχωμα, Λιβαδεία προς Κερκινίτη)&lt;/b&gt;&lt;br&gt;183 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669388&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.107971,41.2294916</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Korifoudi marsh &amp; Kerkinitis river mouth (ΕΠ Λίμνης Κερκίνης--Έλος Κορυφούδι και εκβολές Κερκινίτη)&lt;/b&gt;&lt;br&gt;171 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975282&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1015717,41.1864046</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Vyroneia tracks (ΕΠ Λίμνης Κερκίνης--Σιδηροδρομικές γραμμές Βυρώνειας)&lt;/b&gt;&lt;br&gt;183 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975413&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2499622,41.2571575</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Strymonas river bridge (ΕΠ Λίμνης Κερκίνης--Γέφυρα ποταμού Στρυμώνα)&lt;/b&gt;&lt;br&gt;147 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9378962&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2490118,41.2517214</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Strymonas river mouth (ΕΠ Λίμνης Κερκίνης--Εκβολές Στρυμώνα)&lt;/b&gt;&lt;br&gt;227 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3640815&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1920958,41.2483217</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--East embankment, Limnochori to Megalochori (ΕΠ Λίμνης Κερκίνης--Ανατολικό ανάχωμα, Λιμνοχώρι προς Μεγαλοχώρι)&lt;/b&gt;&lt;br&gt;237 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2812323&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1876755,41.2277326</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP (ΕΠ Λίμνης Κερκίνης)&lt;/b&gt;&lt;br&gt;293 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2158242&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1554031,41.2055226</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--East embankment, Chrisochorafa to Lithotopos (ΕΠ Λίμνης Κερκίνης--Ανατολικό ανάχωμα, Χρυσοχώραφα προς Λιθότοπο)&lt;/b&gt;&lt;br&gt;195 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669505&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2185477,41.1682685</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Southern shore, Lithotopos to Korifoudi (ΕΠ Λίμνης Κερκίνης--Νότια όχθη, Λιθότοπος προς Κορυφούδι)&lt;/b&gt;&lt;br&gt;159 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975267&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1852722,41.1623724</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Lithotopos dam &amp; surrounding area (ΕΠ Λίμνης Κερκίνης--Φράγμα Λιθοτόπου και γύρω περιοχή)&lt;/b&gt;&lt;br&gt;162 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6200350&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.223145,41.1373122</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+</Document>
