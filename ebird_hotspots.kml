@@ -1,0 +1,2415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Style id="placemark-blue">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-blue.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-cyan">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-cyan.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-lightblue">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-lightblue.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-green">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-green.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-teal">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-teal.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-lime">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-lime.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-deeppurple">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-deeppurple.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-purple.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-yellow">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-yellow.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-orange.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-deeporange">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-deeporange.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-red.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-gray">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-gray.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-bluegray">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-bluegray.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-pink.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle>
+            <Icon>
+                <href>https://omaps.app/placemarks/placemark-brown.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-001">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-001.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-002">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-002.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-003">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-003.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-004">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-004.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-005">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-005.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-006">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-006.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-007">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-007.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-008">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-008.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-009">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-009.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-010">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-010.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-011">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-011.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <Style id="placemark-012">
+        <IconStyle>
+            <Icon>
+                <href>https://avibase.bsc-eoc.org/icons/icons16/placemark-012.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    <name>eBird hotspots - GR01</name>
+    <visibility>1</visibility>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Keramoti harbor&lt;/b&gt;&lt;br&gt;167 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4064638&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.7030163,40.8580971</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thassos--Potos&lt;/b&gt;&lt;br&gt;91 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4064758&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.6084738,40.6066093</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thassos--Limenas&lt;/b&gt;&lt;br&gt;56 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4064881&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.708724,40.7791354</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thassos--Sotiras village&lt;/b&gt;&lt;br&gt;58 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4785522&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.5768237,40.7175014</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thasos--Skala Rachoniou&lt;/b&gt;&lt;br&gt;60 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6061468&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.5944834,40.7670866</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kavala, Old Town and Port&lt;/b&gt;&lt;br&gt;89 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6302503&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.4154781,40.9343268</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Pangaion--Mati Peak and surrounding area&lt;/b&gt;&lt;br&gt;95 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7813964&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.1057341,40.9116387</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Vasova Lagoon&lt;/b&gt;&lt;br&gt;55 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9214842&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.5505968,40.9553028</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kechros&lt;/b&gt;&lt;br&gt;85 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10145372&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.8635216,41.2391927</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Alyki lagoon (Rodopi)&lt;/b&gt;&lt;br&gt;145 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10227088&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.2064603,40.9417367</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Karatza Lagoon&lt;/b&gt;&lt;br&gt;145 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1121890&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1862,40.9497</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Vistonis (Λίμνη Βιστωνίδα)&lt;/b&gt;&lt;br&gt;233 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1258957&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1350021,41.0249814</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kalamokastro Village&lt;/b&gt;&lt;br&gt;10 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12857292&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.3583846,41.0495207</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mikro Doukato&lt;/b&gt;&lt;br&gt;15 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14071888&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.4072336,41.037258</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Xyrolimni Lagoon (Fanari)&lt;/b&gt;&lt;br&gt;174 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000909&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1323507,40.9612155</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mesi&lt;/b&gt;&lt;br&gt;77 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000933&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.2102942,40.9802221</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Ismarida (Mitrikou)&lt;/b&gt;&lt;br&gt;260 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3149445&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.3179932,40.9818074</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Porto Lagos Lagoon&lt;/b&gt;&lt;br&gt;263 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4994732&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1477051,40.993828</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Ismaros&lt;/b&gt;&lt;br&gt;103 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5599881&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.5126143,40.9545576</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lissos valey&lt;/b&gt;&lt;br&gt;99 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5721228&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.7925081,41.1075539</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kompsatos Valley&lt;/b&gt;&lt;br&gt;99 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5743096&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1516962,41.2199858</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Imeros Marshes&lt;/b&gt;&lt;br&gt;134 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6334702&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.3670239,40.9365995</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Profitis Ilias Lagoon&lt;/b&gt;&lt;br&gt;178 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7112333&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.3767228,40.9145828</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Ptelea lagoon&lt;/b&gt;&lt;br&gt;197 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7181972&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.255965,40.9380571</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Maroneia--Liontarotopos&lt;/b&gt;&lt;br&gt;135 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7184004&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.5275333,40.8717593</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lissos River Estuary&lt;/b&gt;&lt;br&gt;158 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7184514&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.3373325,40.9420121</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Elos lagoon&lt;/b&gt;&lt;br&gt;152 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7184921&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.2756203,40.944346</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Iasmos Gorge&lt;/b&gt;&lt;br&gt;90 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7467324&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.211091,41.1420148</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Porto Lagos beach&lt;/b&gt;&lt;br&gt;208 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10009426&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.1090266,41.0048451</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kosynthos River&lt;/b&gt;&lt;br&gt;19 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12248914&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.8738946,41.1697238</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lafri Lagoon&lt;/b&gt;&lt;br&gt;83 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13345208&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.0440132,41.0002586</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Palea Morsini's Woodland&lt;/b&gt;&lt;br&gt;3 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15548251&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.8401717,41.1227889</coordinates>
+        </Point>
+        <styleUrl>#placemark-001</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kotza Orman Riverine Forest&lt;/b&gt;&lt;br&gt;196 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5272175&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.7938746,40.8955879</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Porto Lagos salt pans--from Lefkippos to Nea Kessani&lt;/b&gt;&lt;br&gt;171 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7467372&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.0577545,41.0029618</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Nestos Gorge--Lower&lt;/b&gt;&lt;br&gt;120 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7655671&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.758141,41.0960414</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mandra marshes and coastal area&lt;/b&gt;&lt;br&gt;153 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9786678&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.0152322,40.9733843</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Zazari&lt;/b&gt;&lt;br&gt;90 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10813768&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.5476314,40.625921</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Vegoritida--South&lt;/b&gt;&lt;br&gt;127 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10943861&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.747214,40.6931787</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Petron--South (south of Petres and the opposite shore)&lt;/b&gt;&lt;br&gt;87 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10949358&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6905989,40.7103469</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Petron&lt;/b&gt;&lt;br&gt;135 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11882239&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6965218,40.7301168</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;NE of Florina&lt;/b&gt;&lt;br&gt;177 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13074771&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.4458333,40.8183333</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Meliti (Florina)&lt;/b&gt;&lt;br&gt;40 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13351459&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6170296,40.8252108</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Psarades&lt;/b&gt;&lt;br&gt;108 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2515585&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0311794,40.8360218</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--causeway&lt;/b&gt;&lt;br&gt;146 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914468&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0881554,40.8175107</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Koula to Psarades (Mt. Devas)&lt;/b&gt;&lt;br&gt;56 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914473&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0530146,40.8190815</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Koula to Pili&lt;/b&gt;&lt;br&gt;87 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914572&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.067556,40.7930177</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa National Park--Pili to Vrontero&lt;/b&gt;&lt;br&gt;24 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914581&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0003145,40.7753525</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa National Park--the triangle (riparian forest and beans)&lt;/b&gt;&lt;br&gt;106 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914656&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.1134755,40.8365402</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Plati bean fields&lt;/b&gt;&lt;br&gt;91 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3914661&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.1141621,40.8085462</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP&lt;/b&gt;&lt;br&gt;234 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5071282&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0725927,40.8114295</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Agios Achilleios&lt;/b&gt;&lt;br&gt;107 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6233292&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0842228,40.7826861</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Vrontero&lt;/b&gt;&lt;br&gt;25 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6819806&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0334771,40.7198151</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Mikrolimni&lt;/b&gt;&lt;br&gt;113 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6819867&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.1095291,40.7422585</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Varnous&lt;/b&gt;&lt;br&gt;64 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6819978&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.2432315,40.8642966</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Prespa Lakes NP--Agios Germanos&lt;/b&gt;&lt;br&gt;78 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6820008&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.1642951,40.8416359</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Chimaditida&lt;/b&gt;&lt;br&gt;152 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6822104&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.5592527,40.6017021</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Singitic Gulf (Σιγγιτικός κόλπος)&lt;/b&gt;&lt;br&gt;40 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13240071&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.0367306,40.1589333</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Vergina&lt;/b&gt;&lt;br&gt;70 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000989&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.3165762,40.4875896</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Aliakmon Delta (ΕΠ Αξιού--Δέλτα Αλιάκμονα)&lt;/b&gt;&lt;br&gt;188 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3447335&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6340675,40.4959175</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Aliakmonas dam &amp; artificial Lake--Veria (Φράγμα &amp; τεχνητή λίμνη Αλιάκμονα--Βέροια)&lt;/b&gt;&lt;br&gt;94 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5520220&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.260232,40.4912179</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Aliakmon Riverine Forest (ΕΠ Αξιού--Παραποτάμιο δάσος Αλιάκμονα)&lt;/b&gt;&lt;br&gt;176 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7026810&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6059295,40.5391086</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Porto Koufo lagoon (Λιμνοθάλασσα Πόρτο Κουφού)&lt;/b&gt;&lt;br&gt;63 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11207781&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.9287747,39.958916</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Olinthos stream -- Chalkidiki (Ρέμα Ολύνθου, Χαλκιδική)&lt;/b&gt;&lt;br&gt;28 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14966048&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.363465,40.262595</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pirgadikia beach (Παραλία Πυργαδίκια)&lt;/b&gt;&lt;br&gt;26 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2797012&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.7066078,40.3333944</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Ierissos--Chalkidiki (Ιερισσός, Χαλκιδική)&lt;/b&gt;&lt;br&gt;35 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2797188&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.8806725,40.4006208</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Polychrono beach (Παραλία Πολύχρονο)&lt;/b&gt;&lt;br&gt;20 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4942239&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.5263312,40.018928</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mavrompara pond (Λίμνη Μαυρόμπαρα)&lt;/b&gt;&lt;br&gt;35 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4942266&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.5071185,40.0015624</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Sani Wetland, IBA Nea Fokea Marsh (Υγρότοπος Σάνης, Έλος Νέας Φώκαιας)&lt;/b&gt;&lt;br&gt;194 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975158&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3205258,40.1088649</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agios Mamas Wetland (Υγρότοπος Αγίου Μάμα)&lt;/b&gt;&lt;br&gt;125 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9260673&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3333818,40.2300875</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Katsika (Όρος Κατσίκα)&lt;/b&gt;&lt;br&gt;32 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9314503&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1823736,40.375425</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Skala Fourkas beach (Παραλία Σκάλα Φούρκας)&lt;/b&gt;&lt;br&gt;30 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9394524&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3850376,40.0026586</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Manolaki Pond&lt;/b&gt;&lt;br&gt;2 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9703829&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.7593937,40.1960115</coordinates>
+        </Point>
+        <styleUrl>#placemark-001</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Artzan reservoir &amp; marshes (Ταμιευτήρας και έλη Αρτζάν)&lt;/b&gt;&lt;br&gt;142 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12737169&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6484239,41.0313289</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Doirani--Eastern shore (Λίμνη Δοϊράνη--Ανατολική όχθη)&lt;/b&gt;&lt;br&gt;165 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6626628&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.7677702,41.2088129</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Olympus National Park--Skolio Peak (ΕΠ Ολύμπου -- Κορυφή Σκολιό)&lt;/b&gt;&lt;br&gt;28 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1121898&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.3746,40.0995</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Paralia--Katerini (Παραλία, Κατερίνης)&lt;/b&gt;&lt;br&gt;68 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1123184&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.5962,40.2677</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Olympic Beach--Katerini (Ολυμπιακή Ακτή, Κατερίνη)&lt;/b&gt;&lt;br&gt;40 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2783684&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.5858307,40.2391778</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Olympus NP--Litochoro (ΕΠ Ολύμπου, Λιτόχωρο)&lt;/b&gt;&lt;br&gt;97 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000731&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.5017989,40.1020987</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Olympus National Park (ΕΠ Ολύμπου)&lt;/b&gt;&lt;br&gt;131 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000755&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.4086189,40.0693142</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kitros saltpans (Αλυκές Κίτρους)&lt;/b&gt;&lt;br&gt;230 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3443314&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6358585,40.3538615</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Nea Agathoupoli lagoon (ΕΠ Αξιού--ΛΘ Νέας Αγαθούπολης)&lt;/b&gt;&lt;br&gt;162 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5009333&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.5875401,40.4718448</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dion archaeological site (Αρχαιολογικός χώρος Δίου)&lt;/b&gt;&lt;br&gt;61 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7315940&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.4928331,40.1760042</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Tzena (Όρος Τζένα)&lt;/b&gt;&lt;br&gt;8 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11804685&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.2147122,41.1332816</coordinates>
+        </Point>
+        <styleUrl>#placemark-002</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Agra (Λίμνη Άγρα)&lt;/b&gt;&lt;br&gt;87 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12255727&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.9168981,40.8076359</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Pinovo (Όρος Πίνοβο)&lt;/b&gt;&lt;br&gt;24 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15288555&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.0879218,41.0919542</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pella Archaeological site (Αρχαιολογικός χώρος Πέλλας)&lt;/b&gt;&lt;br&gt;43 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2781875&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.5219727,40.7566199</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Edessa&lt;/b&gt;&lt;br&gt;49 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2782014&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.0454407,40.8002962</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Vegoritida--North shore (Λίμνη Βεγορίτιδα--Βόρεια όχθη)&lt;/b&gt;&lt;br&gt;63 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5215477&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.8295336,40.7899647</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Vegoritida (Λίμνη Βεγορίτιδα)&lt;/b&gt;&lt;br&gt;84 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6716889&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.7869186,40.7451761</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt. Voras (Kaimaktsalan)--Ski center area&lt;/b&gt;&lt;br&gt;84 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L8368624&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.8053552,40.9042285</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mt Belles (ΕΠ Λίμνης Κερκίνης--Όρος Μπέλλες)&lt;/b&gt;&lt;br&gt;104 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15809476&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.018878,41.326926</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP (ΕΠ Λίμνης Κερκίνης)&lt;/b&gt;&lt;br&gt;293 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2158242&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1554031,41.2055226</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--East embankment, Limnochori to Megalochori (ΕΠ Λίμνης Κερκίνης--Ανατολικό ανάχωμα, Λιμνοχώρι προς Μεγαλοχώρι)&lt;/b&gt;&lt;br&gt;237 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2812323&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1876755,41.2277326</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Strymonas river mouth (ΕΠ Λίμνης Κερκίνης--Εκβολές Στρυμώνα)&lt;/b&gt;&lt;br&gt;227 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3640815&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1920958,41.2483217</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Southern shore, Lithotopos to Korifoudi (ΕΠ Λίμνης Κερκίνης--Νότια όχθη, Λιθότοπος προς Κορυφούδι)&lt;/b&gt;&lt;br&gt;159 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975267&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1852722,41.1623724</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Korifoudi marsh &amp; Kerkinitis river mouth (ΕΠ Λίμνης Κερκίνης--Έλος Κορυφούδι και εκβολές Κερκινίτη)&lt;/b&gt;&lt;br&gt;171 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975282&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1015717,41.1864046</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Sfika&lt;/b&gt;&lt;br&gt;29 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6827515&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.111406,40.686749</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Aoos reservoir (Τεχνητή λίμνη Αώου)&lt;/b&gt;&lt;br&gt;91 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13247695&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.079947,39.8307589</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pindos Νational Park (Εθνικό Πάρκο Πίνδου)&lt;/b&gt;&lt;br&gt;72 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L16110167&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0593917,39.9288182</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Grammos--Arrenes&lt;/b&gt;&lt;br&gt;70 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11755005&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>20.9173679,40.3091817</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dendrochori (Kastoria)&lt;/b&gt;&lt;br&gt;70 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13814184&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.1439616,40.5986807</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kastoria&lt;/b&gt;&lt;br&gt;158 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2587983&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.2657547,40.5186886</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Orestiada&lt;/b&gt;&lt;br&gt;134 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000983&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.2983131,40.5275443</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Stena Gorge viewpoint (Nestorio to Stena Rd.)&lt;/b&gt;&lt;br&gt;25 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4959760&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.0719412,40.4245061</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Gramos Village Rd. (the macadam 6 km section)&lt;/b&gt;&lt;br&gt;35 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975010&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>20.8635365,40.4121879</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Gramos Village&lt;/b&gt;&lt;br&gt;42 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975080&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>20.8359068,40.3918611</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Istakos (Όρος Ίστακος)&lt;/b&gt;&lt;br&gt;72 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6680976&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.358565,40.46637</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Orestiada--Polykarpi&lt;/b&gt;&lt;br&gt;147 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L8020691&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.3195967,40.5257151</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Vourinos&lt;/b&gt;&lt;br&gt;47 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11755150&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6094492,40.2427798</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Ptolemaida&lt;/b&gt;&lt;br&gt;39 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14581199&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.7032851,40.5162798</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Rimni Riparian Forest&lt;/b&gt;&lt;br&gt;83 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15603303&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.8565709,40.1280942</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Limni Polifytou&lt;/b&gt;&lt;br&gt;50 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6659115&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.8978333,40.1732006</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Plastira (Λίμνη Πλαστήρα)&lt;/b&gt;&lt;br&gt;46 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14208121&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.7496465,39.3006664</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mitropoli reservoir (Ταμιευτήρας Μητρόπολης)&lt;/b&gt;&lt;br&gt;35 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14208656&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.8216329,39.3288755</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pausilipo park -- Karditsa (Πάρκο Παυσίλυπο Καρδίτσας)&lt;/b&gt;&lt;br&gt;30 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14280975&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.927976,39.364943</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Eastern Thessaly plain-- Eleftheres area (Ανατολικός Θεσσαλικός κάμπος -- Ελευθέρες)&lt;/b&gt;&lt;br&gt;7 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13069189&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.3277525,39.5693173</coordinates>
+        </Point>
+        <styleUrl>#placemark-002</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- Kastri reservoir (Λίμνη Κάρλα -- Ταμιευτήρας Καστρίου)&lt;/b&gt;&lt;br&gt;37 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6171267&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6682711,39.6062833</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- NW enbankment (Λίμνη Κάρλα -- ΒΔ ανάχωμα)&lt;/b&gt;&lt;br&gt;118 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6196998&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.7825975,39.5060937</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- NE shore (Λίμνη Κάρλα -- ΒΑ όχθη)&lt;/b&gt;&lt;br&gt;78 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6215858&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8076315,39.5187825</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pineios Delta (Δέλτα Πηνειού)&lt;/b&gt;&lt;br&gt;44 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6586391&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6982002,39.9235223</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- Kalamaki reservoir (Λίμνη Κάρλα -- Tαμιευτήρας Καλαμακίου)&lt;/b&gt;&lt;br&gt;103 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6742296&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.7116842,39.5590437</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dasochori riparian woodland (Παραποτάμιο δάσος Δασοχωρίου)&lt;/b&gt;&lt;br&gt;62 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7856326&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.429119,39.6985423</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Xirias wetland -- Volos (Υγρότοπος Ξηριά Βόλου)&lt;/b&gt;&lt;br&gt;145 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10208494&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.929037,39.3528341</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Goritsa hill -- Volos (Λόφος Γορίτσας Βόλου)&lt;/b&gt;&lt;br&gt;60 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10221848&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9769209,39.3526381</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agios Dimitrios lagoon -- Alonissos (Λ/θ Αγ. Δημητρίου Αλοννήσου)&lt;/b&gt;&lt;br&gt;52 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10284619&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.9446391,39.2198695</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kastanorema reservoir -- Alonissos (Ταμιευτήρας Καστανορέματος Αλοννήσου)&lt;/b&gt;&lt;br&gt;40 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10364724&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.9375956,39.2336441</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Megali Ammos beach -- Skiathos (Παραλία Μεγάλη Άμμος Σκιάθου)&lt;/b&gt;&lt;br&gt;15 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1120178&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4748535,39.1598784</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agios Georgios lagoon -- Skiathos (Λ/θ Αγ. Γεωργίου Σκιάθου)&lt;/b&gt;&lt;br&gt;32 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1120185&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.5038639,39.1708664</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Skiathos port (Λιμάνι Σκιάθου)&lt;/b&gt;&lt;br&gt;32 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1120186&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4907,39.162</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Alonissos island -- SW (ΝΔ Αλόννησος)&lt;/b&gt;&lt;br&gt;120 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11958402&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.85839,39.152546</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kyra Panagia islet (Νήσος Κυρά Παναγιά)&lt;/b&gt;&lt;br&gt;24 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12180077&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.0774624,39.3186562</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Krafsidonas stream -- Volos (Ρέμα Κραυσίδωνα Βόλου)&lt;/b&gt;&lt;br&gt;68 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12534295&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9344196,39.3691226</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Peristera islet (Νήσος Περιστέρα)&lt;/b&gt;&lt;br&gt;8 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12803043&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.9820856,39.199907</coordinates>
+        </Point>
+        <styleUrl>#placemark-002</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Skantzoura islet (Νήσος Σκάντζουρα)&lt;/b&gt;&lt;br&gt;11 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12803152&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.1115077,39.076768</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Delphi -- Skopelos (Όρος Δέλφη Σκοπέλου)&lt;/b&gt;&lt;br&gt;23 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12940430&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.6692338,39.146166</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Anavros stream -- Volos (Ρέμα Αναύρου Βόλου)&lt;/b&gt;&lt;br&gt;64 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14289786&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9641617,39.3517184</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Pelion -- West (Δυτικό Πήλιο)&lt;/b&gt;&lt;br&gt;78 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14508577&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.0261726,39.3964178</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla (Λίμνη Κάρλα)&lt;/b&gt;&lt;br&gt;228 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2917728&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8220383,39.4923271</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Eastern Thessaly plain -- Stefanovikio area (Ανατολικός Θεσσαλικός κάμπος -- Στεφανοβίκειο)&lt;/b&gt;&lt;br&gt;40 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3995722&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.7284241,39.4478397</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Glossa village -- Skopelos (Γλώσσα Σκοπέλου)&lt;/b&gt;&lt;br&gt;14 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4644972&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.6149514,39.1744885</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Neo Klima village -- Skopelos (Νέο Κλήμα Σκοπέλου)&lt;/b&gt;&lt;br&gt;23 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4842058&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.6456836,39.1388979</coordinates>
+        </Point>
+        <styleUrl>#placemark-003</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Vyroneia tracks (ΕΠ Λίμνης Κερκίνης--Σιδηροδρομικές γραμμές Βυρώνειας)&lt;/b&gt;&lt;br&gt;183 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4975413&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2499622,41.2571575</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Akritochori Reservoir (ΕΠ Λίμνης Κερκίνης--Ταμιευτήρας Ακριτοχωρίου)&lt;/b&gt;&lt;br&gt;136 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5145173&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.169415,41.2782257</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Chimarros &amp; surrounding area (Χείμαρρος και γύρω περιοχή)&lt;/b&gt;&lt;br&gt;123 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5841062&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2332251,41.1156909</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Lithotopos dam &amp; surrounding area (ΕΠ Λίμνης Κερκίνης--Φράγμα Λιθοτόπου και γύρω περιοχή)&lt;/b&gt;&lt;br&gt;162 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6200350&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.223145,41.1373122</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Zevgolatio &amp; surrounding fields (Ζευγολατιό και γύρω χωράφια)&lt;/b&gt;&lt;br&gt;42 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6539066&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2792568,41.0923544</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Sidirokastro quarry (Λατομείο Σιδηροκάστρου)&lt;/b&gt;&lt;br&gt;93 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669322&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.41223,41.2571621</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mandraki harbour (ΕΠ Λίμνης Κερκίνης--Λιμάνι Μανδρακίου)&lt;/b&gt;&lt;br&gt;205 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669379&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1402004,41.2561942</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--West embankment, Livadia to Kerkinitis river (ΕΠ Λίμνης Κερκίνης--Δυτικό ανάχωμα, Λιβαδεία προς Κερκινίτη)&lt;/b&gt;&lt;br&gt;183 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669388&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.107971,41.2294916</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--East embankment, Chrisochorafa to Lithotopos (ΕΠ Λίμνης Κερκίνης--Ανατολικό ανάχωμα, Χρυσοχώραφα προς Λιθότοπο)&lt;/b&gt;&lt;br&gt;195 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669505&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2185477,41.1682685</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Issari Castle--Sidirokastro (Κάστρο Ισσάρι Σιδηροκάστρου)&lt;/b&gt;&lt;br&gt;108 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6669520&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3968382,41.2387601</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Pethelinos Rowing Canal&lt;/b&gt;&lt;br&gt;4 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7913109&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.7036091,40.9578775</coordinates>
+        </Point>
+        <styleUrl>#placemark-001</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Sidirokastro waterfalls (Καταρράκτες Σιδηροκάστρου)&lt;/b&gt;&lt;br&gt;50 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9332719&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4140217,41.2657271</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Aetovouni quarry (ΕΠ Λίμνης Κερκίνης--Λατομείο Αετοβούνι)&lt;/b&gt;&lt;br&gt;121 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9378926&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.256243,41.2829914</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Strymonas river bridge (ΕΠ Λίμνης Κερκίνης--Γέφυρα ποταμού Στρυμώνα)&lt;/b&gt;&lt;br&gt;147 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9378962&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2490118,41.2517214</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Kerkini NP--Mt Belles, Vyroneia to Profitis Ilias church (ΕΠ Λίμνης Κερκίνης--Όρος Μπέλλες, Βυρώνεια προς εκκλησία Προφήτη Ηλία)&lt;/b&gt;&lt;br&gt;45 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9465011&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.2067572,41.284855</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια)&lt;/b&gt;&lt;br&gt;214 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1033469&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1527424,40.6855989</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Elaiorema stream &amp; park (Ρέμα και πάρκο Ελαιόρεμα)&lt;/b&gt;&lt;br&gt;80 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10354745&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.985476,40.6046732</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Tsairia marsh (Έλος Τσαΐρια)&lt;/b&gt;&lt;br&gt;134 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10849214&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9419214,40.5130027</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dendropotamos river estuary (Εκβολές Δενδροπόταμου)&lt;/b&gt;&lt;br&gt;100 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10861610&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8980163,40.642043</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mavrouda wetland &amp; surrounding area (Υγρότοπος Μαυρούδας &amp; γύρω περιοχή)&lt;/b&gt;&lt;br&gt;155 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10959701&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4569872,40.785984</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Anthemountas &amp; Thermis stream wetland (Υγρότοπος Ανθεμούντα &amp; ρέματος Θέρμης)&lt;/b&gt;&lt;br&gt;163 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10976973&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9791881,40.5372031</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia, West shore (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια, Δυτική όχθη)&lt;/b&gt;&lt;br&gt;178 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1120033&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1033097,40.6875095</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thessaloniki Airport (Αεροδρόμιο Θεσσαλονίκης)&lt;/b&gt;&lt;br&gt;45 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1120171&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9717,40.5204</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Asprovalta beach (Παραλία Ασπροβάλτας)&lt;/b&gt;&lt;br&gt;81 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1121882&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.7088,40.7209</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Yfanet stream (Ρέμα Υφανέτ)&lt;/b&gt;&lt;br&gt;52 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12595586&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9656583,40.6169444</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kryoneri--Seix Sou forest (Κρυονέρι, Δάσος Σέιχ Σου)&lt;/b&gt;&lt;br&gt;57 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13093472&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9840636,40.6263145</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thermis dam reservoir (Ταμιευτήρας φράγματος Θέρμης)&lt;/b&gt;&lt;br&gt;59 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13159744&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.0351114,40.5581502</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Cara Tepe hill--Seix Sou forest (Λόφος Καρά Τεπέ, Δάσος Σέιχ Σου)&lt;/b&gt;&lt;br&gt;51 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13229955&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9811943,40.6451529</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Vertiskos--Germani&lt;/b&gt;&lt;br&gt;85 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13239917&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3977441,40.8278814</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thessaloniki city center (Κέντρο Θεσσαλονίκης)&lt;/b&gt;&lt;br&gt;55 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13284391&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9443515,40.6333686</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lantza plain/former lake (Πεδιάδα πρώην λίμνης Λάντζας)&lt;/b&gt;&lt;br&gt;116 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13433743&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.517689,40.7691402</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Panorama--Thessaloniki (Πανόραμα, Θεσσαλονίκη)&lt;/b&gt;&lt;br&gt;31 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L13543249&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.0192167,40.597767</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Askos &amp; surrounding fields (Ασκός και γύρω χωράφια)&lt;/b&gt;&lt;br&gt;31 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15210571&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3867324,40.7567074</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Volvi (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Βόλβη)&lt;/b&gt;&lt;br&gt;195 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2783718&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4732514,40.6765958</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Angelochori lagoon &amp; saltpans (ΛΘ &amp; αλυκές Αγγελοχωρίου)&lt;/b&gt;&lt;br&gt;186 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2803175&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8234529,40.4901735</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Gallikos river estuary (ΕΠ Αξιού--Εκβολές Γαλλικού ποταμού)&lt;/b&gt;&lt;br&gt;238 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2812518&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8386021,40.6266697</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Volvi, Apollonia (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Βόλβη, Απολλωνία)&lt;/b&gt;&lt;br&gt;145 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3086254&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.4878254,40.6452847</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;White Tower (Λευκός Πύργος)&lt;/b&gt;&lt;br&gt;80 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4117291&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9483546,40.626359</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Ano Poli &amp; Eptapyrgio castle (Άνω Πόλη και κάστρο Επταπύργιο)&lt;/b&gt;&lt;br&gt;66 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4117305&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9532526,40.6434981</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Epanomi lagoon (Λιμνοθάλασσα Επανομής)&lt;/b&gt;&lt;br&gt;145 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4234476&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9045523,40.3884786</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Loudias Delta (ΕΠ Αξιού--Δέλτα Λουδία)&lt;/b&gt;&lt;br&gt;163 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5003300&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.6815414,40.5292297</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Axios Delta (ΕΠ Αξιού--Δέλτα Αξιού)&lt;/b&gt;&lt;br&gt;236 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5009302&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.7445173,40.5606343</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Axios NP--Kalochori lagoon (ΕΠ Αξιού--Λιμνοθάλασσα Καλοχωρίου)&lt;/b&gt;&lt;br&gt;216 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5037097&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8651667,40.6310209</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Epanomi saltpans (Αλυκές Επανομής)&lt;/b&gt;&lt;br&gt;51 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5846445&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8658533,40.4389288</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Thessaloniki Port (Λιμάνι Θεσσαλονίκης)&lt;/b&gt;&lt;br&gt;32 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6810429&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9188967,40.6316072</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Vertiskos (Όρος Βερτίσκος)&lt;/b&gt;&lt;br&gt;100 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7197626&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3257985,40.8755898</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kalochori harbour (Λιμάνι Καλοχωρίου)&lt;/b&gt;&lt;br&gt;71 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7467473&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8915547,40.6430862</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Volvi, Rentina Gorge (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Βόλβη, Φαράγγι Ρεντίνας)&lt;/b&gt;&lt;br&gt;63 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7896696&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.625123,40.6585178</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mikro Emvolo cape (Ακρωτήρι Μικρό Έμβολο)&lt;/b&gt;&lt;br&gt;101 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L8039295&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.9355125,40.5833436</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kladeri pond &amp; surounding area (Λίμνη Κλαδέρι &amp; γύρω περιοχή)&lt;/b&gt;&lt;br&gt;67 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L8278274&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.3876212,40.786756</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia, Agios Vasileios to Vasiloudi (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια, Άγιος Βασίλειος προς Βασιλούδι)&lt;/b&gt;&lt;br&gt;66 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9531443&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.139215,40.65919</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia, Vasiloudi farmland (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια, γεωργικές εκτάσεις Βασιλούδι)&lt;/b&gt;&lt;br&gt;43 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9531533&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.20978,40.6611367</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia, Agios Vasileios lake bank (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια, όχθη Αγίου Βασιλείου)&lt;/b&gt;&lt;br&gt;152 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9531616&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.12076,40.667975</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Volvi &amp; Koroneia NP--Lake Koroneia, Drakontio farmland (ΕΠ Λιμνών Κορώνειας και Βόλβης--Λίμνη Κορώνεια, γεωργικές εκτάσεις Δρακόντιο)&lt;/b&gt;&lt;br&gt;29 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9533269&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1518499,40.7282888</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Exochi hills (Λόφοι Εξοχής)&lt;/b&gt;&lt;br&gt;85 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9538598&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.0635046,40.6330173</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agia Varvara park (Drama)&lt;/b&gt;&lt;br&gt;29 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12180258&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.141294,41.149531</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Korylovos suburban forest, Drama&lt;/b&gt;&lt;br&gt;45 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12351150&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.1697105,41.1710982</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Falakro--Woodland&lt;/b&gt;&lt;br&gt;34 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12443072&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.0158852,41.290963</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Kato Nevrokopi Farmland&lt;/b&gt;&lt;br&gt;56 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L14215583&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.8226602,41.3126731</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Drama-Paranesti&lt;/b&gt;&lt;br&gt;75 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L15210651&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.2913234,41.1552734</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Rodopi Mountain Range National Park--Elatia Forest (Kara Dere)&lt;/b&gt;&lt;br&gt;118 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2927786&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.3025303,41.4914779</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Rodopi Mountain Range National Park--Fraktos Forest (Zagradenia)&lt;/b&gt;&lt;br&gt;87 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3970881&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.5054233,41.5063276</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Rodopi Mountain Range National Park--Haidou Forest&lt;/b&gt;&lt;br&gt;98 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6970051&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.7288513,41.3394426</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Falakro&lt;/b&gt;&lt;br&gt;61 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7184114&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.0797413,41.2933809</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Falakro--Ski center area&lt;/b&gt;&lt;br&gt;79 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L8089753&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.074772,41.3025816</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;South Evros Forest Complex--Nipsa to Koila&lt;/b&gt;&lt;br&gt;47 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10276761&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.0639289,40.9924034</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park&lt;/b&gt;&lt;br&gt;142 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10654986&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.2283678,41.1186224</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;South Evros Forest Complex--Avas to Aisymi&lt;/b&gt;&lt;br&gt;71 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10946618&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.9179062,40.98078</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;South Evros Forest Complex--Loutros to Nipsa&lt;/b&gt;&lt;br&gt;70 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10952067&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.0775484,40.9329796</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Feres&lt;/b&gt;&lt;br&gt;71 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1121894&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.1542606,40.9129129</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Evros Delta National Park&lt;/b&gt;&lt;br&gt;253 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12302005&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.0742655,40.8057961</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park--Lefkimi Area&lt;/b&gt;&lt;br&gt;95 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L12845819&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.1808093,41.0283516</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park--Ecotourism Centre&lt;/b&gt;&lt;br&gt;154 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000835&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.2285048,41.122327</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park--Woodland&lt;/b&gt;&lt;br&gt;175 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000851&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.192379,41.0937559</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Skopelos town (Χώρα Σκοπέλου)&lt;/b&gt;&lt;br&gt;33 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4842117&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.7280982,39.1211951</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Mavrovouni (Όρος Μαυροβούνι)&lt;/b&gt;&lt;br&gt;81 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6171305&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8588608,39.5615682</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- Western enbankment (Λίμνη Κάρλα -- Δυτικό ανάχωμα)&lt;/b&gt;&lt;br&gt;130 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6196999&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8060685,39.455812</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Lake Karla -- SE enbankment (Λίμνη Κάρλα -- ΝΑ ανάχωμα)&lt;/b&gt;&lt;br&gt;92 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6197005&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>22.8635359,39.4866875</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Pelion -- East (Ανατολικό Πήλιο)&lt;/b&gt;&lt;br&gt;60 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6827549&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.1472859,39.4216944</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Portaikos river (Πορταϊκός ποταμός)&lt;/b&gt;&lt;br&gt;72 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11292251&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6460858,39.4748961</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mt Koziakas (Όρος Κόζιακας)&lt;/b&gt;&lt;br&gt;67 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L11871361&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.5165005,39.5620388</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mts Antichasia (Αντιχάσια όρη)&lt;/b&gt;&lt;br&gt;94 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L2917393&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6633502,39.7702174</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agiamoniotis river (Αγιαμονιώτης ποταμός)&lt;/b&gt;&lt;br&gt;51 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5093000&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.7625569,39.5407241</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Gitzi pond -- Kefalovriso (Λίμνιο Γκιτζή Κεφαλόβρυσου)&lt;/b&gt;&lt;br&gt;54 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5388666&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6918485,39.5778928</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dialechto marsh (Έλος Διαλεχτού)&lt;/b&gt;&lt;br&gt;101 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5589357&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6710827,39.5877912</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Theopetra hill (Λόφος Θεόπετρας)&lt;/b&gt;&lt;br&gt;58 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5849870&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6846227,39.6782929</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Western Thessaly plain -- Sarakina area (Δυτικός Θεσσαλικός κάμπος -- Σαρακήνα)&lt;/b&gt;&lt;br&gt;41 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L6766058&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6415332,39.656865</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Mourgani riparian woodland (Παραποτάμιο δάσος Μουργκανίου)&lt;/b&gt;&lt;br&gt;59 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7684805&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.5227103,39.7733842</coordinates>
+        </Point>
+        <styleUrl>#placemark-005</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Litheos river -- Trikala city centre (Ποταμός Ληθαίος -- Κέντρο Τρικάλων)&lt;/b&gt;&lt;br&gt;47 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7796945&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.7685849,39.555257</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Meteora (Μετέωρα)&lt;/b&gt;&lt;br&gt;159 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L931642&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>21.6299785,39.7158136</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Evros Delta National Park--Drana and Paloukia Lagoon&lt;/b&gt;&lt;br&gt;264 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000873&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.0176563,40.8042811</coordinates>
+        </Point>
+        <styleUrl>#placemark-010</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Loutros&lt;/b&gt;&lt;br&gt;121 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000930&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.046474,40.8811925</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Alexandroupolis&lt;/b&gt;&lt;br&gt;163 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000971&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.8737755,40.8493111</coordinates>
+        </Point>
+        <styleUrl>#placemark-008</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park--Diavolorema Bridge&lt;/b&gt;&lt;br&gt;113 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3107442&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.2243545,41.1422572</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Dadia Forest National Park--Feeding Station Observatory&lt;/b&gt;&lt;br&gt;119 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3973255&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.2444603,41.1077803</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Doriskos&lt;/b&gt;&lt;br&gt;98 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L4019432&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.1181927,40.8692618</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Evros Delta National Park--Antheia&lt;/b&gt;&lt;br&gt;220 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L5536372&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.9725809,40.8321903</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Samothraki--Agios Andreas Wetland complex&lt;/b&gt;&lt;br&gt;36 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7128035&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.462068,40.471446</coordinates>
+        </Point>
+        <styleUrl>#placemark-004</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Samothraki--Samothraki Island&lt;/b&gt;&lt;br&gt;88 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L7458073&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.5881453,40.4577889</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Evros Delta National Park--Feres area&lt;/b&gt;&lt;br&gt;118 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L9160871&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>26.1862955,40.8815218</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Avas Gorge&lt;/b&gt;&lt;br&gt;130 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L931645&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>25.9100103,40.9424348</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Strymonas river estuary (Εκβολές ποταμού Στρυμόνα)&lt;/b&gt;&lt;br&gt;140 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L10009407&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>23.857781,40.7851727</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Nestos Gorge--Upper&lt;/b&gt;&lt;br&gt;89 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L1121887&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.691,41.1694</coordinates>
+        </Point>
+        <styleUrl>#placemark-006</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Nestos Delta&lt;/b&gt;&lt;br&gt;207 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3000778&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.778533,40.8611264</coordinates>
+        </Point>
+        <styleUrl>#placemark-009</styleUrl>
+    </Placemark>
+    <Placemark>
+        <name>ebird</name>
+        <description>&lt;p&gt;&lt;b&gt;Agiasma Lagoons&lt;/b&gt;&lt;br&gt;115 target species&lt;/p&gt;&#13;
+&lt;p&gt;&lt;a href="https://ebird.org/barchart?r=L3117554&amp;yr=all&amp;m="&gt;barcharts&lt;/a&gt;&lt;/p&gt;</description>
+        <Point>
+            <coordinates>24.6107054,40.8977343</coordinates>
+        </Point>
+        <styleUrl>#placemark-007</styleUrl>
+    </Placemark>
+</Document>
