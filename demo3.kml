@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colored Markers Demo</name>
+
+    <!-- Style for green marker -->
+    <Style id="greenMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/map/markers/marker-icon-2x-green.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Style for kitrino marker -->
+    <Style id="yelloMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/map/markers/marker-icon-2x-yellow.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Style for orange marker -->
+    <Style id="orangeMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/map/markers/marker-icon-2x-orange.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Style for red marker -->
+    <Style id="redMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/map/markers/marker-icon-2x-red.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Athens Placemark -->
+    <Placemark>
+      <name>Athens</name>
+      <styleUrl>#greenMarker</styleUrl>
+      <ExtendedData>
+        <Data name="colorId">
+          <value>greenMarker</value>
+        </Data>
+      </ExtendedData>
+      <description>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;max: 34.80&lt;/li&gt;
+                    &lt;li&gt;mean: 30.10&lt;/li&gt;
+                    &lt;li&gt;min: 27.61&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        </description>
+      <Point>
+        <coordinates>23.7275,37.9838,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Thessaloniki Placemark -->
+    <Placemark>
+      <name>Thessaloniki</name>
+      <styleUrl>#redMarker</styleUrl>
+      <ExtendedData>
+        <Data name="colorId">
+          <value>redMarker</value>
+        </Data>
+      </ExtendedData>
+      <description>
+        &lt;ul&gt;
+            &lt;li&gt;&lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;/li&gt;
+            &lt;li&gt;&lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;max: 34.80&lt;/li&gt;
+                    &lt;li&gt;mean: 30.10&lt;/li&gt;
+                    &lt;li&gt;min: 27.61&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+        </description>
+      <Point>
+        <coordinates>22.9444,40.6401,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
