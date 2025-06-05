@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colored Markers Demo</name>
+
+        <Placemark>
+            <name>Πτηνό #1</name>
+            <ExtendedData>
+                <Data name="colorId">
+                    <value>greenMarker</value>
+                </Data>
+                <Data name="birdId">
+                    <value>12</value>
+                </Data>
+            </ExtendedData>
+            <description>
+    &lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;br/&gt;
+    &lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;br/&gt;
+    &lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;br/&gt;
+    &lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;br/&gt;
+    &lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;br/&gt;
+    &lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;max: 34.80 &#8451;&lt;/li&gt;
+      &lt;li&gt;mean: 30.10 &#8451;&lt;/li&gt;
+      &lt;li&gt;min: 27.61&#8451;&lt;/li&gt;
+    &lt;/ul&gt;
+  </description>
+            <Point >
+                <coordinates>20.920130783123323,39.03731550633476,0.0</coordinates>
+            </Point>
+        </Placemark>
+
+
+        <Placemark >
+            <name>Πτηνό #2</name>
+            <ExtendedData>
+                <Data name="colorId">
+                    <value>yellowMarker</value>
+                </Data>
+                <Data name="birdId">
+                    <value>23</value>
+                </Data>
+            </ExtendedData>
+            <description>
+    &lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;br/&gt;
+    &lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;br/&gt;
+    &lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;br/&gt;
+    &lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;br/&gt;
+    &lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;br/&gt;
+    &lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;max: 34.80 &#8451;&lt;/li&gt;
+      &lt;li&gt;mean: 30.10 &#8451;&lt;/li&gt;
+      &lt;li&gt;min: 27.61&#8451;&lt;/li&gt;
+    &lt;/ul&gt;
+  </description>
+            <Point >
+                <coordinates>20.92012262798322,39.03722342062027,0.0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark >
+            <name>Πτηνό #3</name>
+            <ExtendedData>
+                <Data name="colorId">
+                    <value>orangeMarker</value>
+                </Data>
+                <Data name="birdId">
+                    <value>56</value>
+                </Data>
+            </ExtendedData>
+            <description>
+    &lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;br/&gt;
+    &lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;br/&gt;
+    &lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;br/&gt;
+    &lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;br/&gt;
+    &lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;br/&gt;
+    &lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;max: 34.80 &#8451;&lt;/li&gt;
+      &lt;li&gt;mean: 30.10 &#8451;&lt;/li&gt;
+      &lt;li&gt;min: 27.61&#8451;&lt;/li&gt;
+    &lt;/ul&gt;
+  </description>
+            <Point >
+                <coordinates>20.92013749853872,39.03722958657234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        
+        <Placemark >
+            <name>Πτηνό #4</name>
+            <ExtendedData>
+                <Data name="colorId">
+                    <value>redMarker</value>
+                </Data>
+                <Data name="birdId">
+                    <value>89</value>
+                </Data>
+            </ExtendedData>
+            <description>
+    &lt;b&gt;Κατάσταση:&lt;/b&gt; Resting&lt;br/&gt;
+    &lt;b&gt;Τοποθεσία:&lt;/b&gt; Water&lt;br/&gt;
+    &lt;b&gt;Μέγεθος:&lt;/b&gt; 70.55 cm&lt;br/&gt;
+    &lt;b&gt;Προσωρινό ID:&lt;/b&gt; 1&lt;br/&gt;
+    &lt;b&gt;Ρίσκο:&lt;/b&gt; 2.27&lt;br/&gt;
+    &lt;b&gt;Θερμοκρασία Πτηνού:&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;max: 34.80 &#8451;&lt;/li&gt;
+      &lt;li&gt;mean: 30.10 &#8451;&lt;/li&gt;
+      &lt;li&gt;min: 27.61&#8451;&lt;/li&gt;
+    &lt;/ul&gt;
+  </description>
+            <Point>
+                <coordinates>20.92011396613099,39.03733951668495,0.0</coordinates>
+            </Point>
+        </Placemark>
+
+  </Document>
+</kml>
