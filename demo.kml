@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Colored Markers Demo</name>
+
+    <!-- Style for blue marker -->
+    <Style id="blueMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/markers/marker-blue.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Style for red marker -->
+    <Style id="redMarker">
+      <IconStyle>
+        <scale>1.0</scale>
+        <Icon>
+          <href>assets/markers/marker-red.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Athens Placemark -->
+    <Placemark>
+      <name>Athens</name>
+      <styleUrl>#blueMarker</styleUrl>
+      <ExtendedData>
+        <Data name="colorId">
+          <value>blue</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>23.7275,37.9838,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Thessaloniki Placemark -->
+    <Placemark>
+      <name>Thessaloniki</name>
+      <styleUrl>#redMarker</styleUrl>
+      <ExtendedData>
+        <Data name="colorId">
+          <value>red</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>22.9444,40.6401,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
